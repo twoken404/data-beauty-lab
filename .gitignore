@@ -11,3 +11,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# 部署bat
+deploy.bat
