@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Welcome on 数据之美</title>
+        <link>http://localhost:1313/tags/welcome/</link>
+        <description>Recent content in Welcome on 数据之美</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Data Beauty Lab</copyright><atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Welcome to Data Beauty Lab</title>
+        <link>http://localhost:1313/en/posts/welcome-en/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/posts/welcome-en/</guid>
+        <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome!
+&lt;/h1&gt;&lt;p&gt;Welcome to the &lt;strong&gt;Data Beauty Lab&lt;/strong&gt;, a space to explore the elegance in data, algorithms, and code.&lt;/p&gt;
+&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Discover Algorithmic Beauty&lt;/strong&gt; - from simple rules to complex behaviors&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write Elegant Code&lt;/strong&gt; - artistic expression in Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Understand AI Thinking&lt;/strong&gt; - principles of LLMs and multimodal models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Visualization&lt;/strong&gt; - presenting patterns and structures in text&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/welcome-zh/&#34; &gt;Read in Chinese&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

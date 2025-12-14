@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "siteTitle": "数据之美实验室",
+  "siteDescription": "探索数据、AI与代码中的优雅之美",
+  "fields": ["title", "content", "summary", "tags", "categories"],
+  "documents": [
+    {
+      "id": "welcome",
+      "title": "欢迎来到数据之美实验室",
+      "url": "/p/welcome-zh/",
+      "summary": "欢迎来到数据之美实验室，这是一个探索数据、算法与代码中优雅之美的空间。",
+      "tags": ["欢迎", "数据科学", "AI"],
+      "categories": ["公告"]
+    },
+    {
+      "id": "data-beauty-intro",
+      "title": "数据之美初探：从熵到信息可视化",
+      "url": "/p/data-beauty-intro-zh/",
+      "summary": "探索熵的概念及其在信息论和数据可视化中的美学意义。",
+      "tags": ["熵", "信息论", "Python", "可视化"],
+      "categories": ["数据科学", "信息论"]
+    }
+  ],
+  "lastUpdated": "2024-03-20"
+}
