@@ -27,7 +27,7 @@ params:
     mainSections:
         - posts
     featuredImageField: ""
-    rssFullContent: true
+    rssFullContent: false
     
     footer:
         since: 2025
