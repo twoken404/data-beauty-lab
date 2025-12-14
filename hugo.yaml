@@ -24,6 +24,7 @@ permalinks:
     page: /:slug/
 
 params:
+
     mainSections:
         - posts
     featuredImageField: ""
