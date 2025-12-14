@@ -14,7 +14,7 @@ services:
     disqus:
         shortname: "hugo-theme-stack"
     googleAnalytics:
-        id:
+        id: "G-TBRXY1JPK5"
 
 pagination:
     pagerSize: 3
