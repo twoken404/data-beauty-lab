@@ -1,6 +1,6 @@
 ---
 title: "从鸟群模拟到优化算法：Boids模型的演化与应用"
-date: 2025-12-17
+date: 2025-12-19
 slug: "from-flocking-to-optimization-the-evolution-and-application-of-boids-model-zh"
 categories: ["算法解析", "人工智能"]
 tags: ["群体智能", "Boids算法", "优化算法", "模拟", "Python实现"]

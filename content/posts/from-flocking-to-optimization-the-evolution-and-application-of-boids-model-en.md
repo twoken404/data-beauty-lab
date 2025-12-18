@@ -1,6 +1,6 @@
 ---
 title: "From Flocking to Optimization: The Evolution and Application of the Boids Model"
-date: 2025-12-17
+date: 2025-12-19
 slug: "from-flocking-to-optimization-the-evolution-and-application-of-boids-model-en"
 categories: ["Algorithm Analysis", "Artificial Intelligence"]
 tags: ["Swarm Intelligence", "Boids Algorithm", "Optimization Algorithm", "Simulation", "Python Implementation"]
