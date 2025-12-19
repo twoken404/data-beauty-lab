@@ -9,7 +9,7 @@ draft: false
 
 **Last Updated:** [Date, e.g., May 21, 2024]
 
-This Privacy Policy describes how we collect, use, and process your personal information when you visit our website, let-ai.com ("the Site").
+This Privacy Policy describes how we collect, use, and process your personal information when you visit our website, 139010.xyz ("the Site").
 
 ## 1. Information We Collect
 
@@ -54,7 +54,7 @@ Depending on your location, you may have certain rights regarding your personal 
 *   **Opt-Out of Sale/Sharing:** Under laws like the CCPA, you have the right to opt-out of the "sale" or "sharing" of your personal information. While we do not sell data in the traditional sense, activities like using Google AdSense for personalized ads may be considered "sharing" under some laws. To opt-out, you can use the global privacy control signal or contact us directly.
 *   **Objection:** Object to our processing of your data.
 
-To exercise any of these rights, please contact us at **[your-email@let-ai.com]**.
+To exercise any of these rights, please contact us at **[admin@139010.xyz]**.
 
 ## 6. International Data Transfers
 
@@ -79,5 +79,5 @@ We may update this Privacy Policy from time to time. The updated version will be
 ## 11. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-*   **Email:** **[admin@let-ai.com]**
-*   **Website:** let-ai.com
+*   **Email:** **admin@139010.xyz**
+*   **Website:** 139010.xyz
