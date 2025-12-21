@@ -14,3 +14,4 @@ Thumbs.db
 
 # 部署bat
 deploy.bat
+.env
