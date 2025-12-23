@@ -1,6 +1,6 @@
 ---
 title: "Visualizing Planar Affine Transformations: Exploring Geometric Transformations with Python"
-date: 2025-01-23
+date: 2025-12-23
 slug: "affine-transformation-visualization-en"
 categories: ["Data Visualization", "Linear Algebra"]
 tags: ["Python", "Matplotlib", "Linear Transformation", "Affine Transformation", "Visualization"]

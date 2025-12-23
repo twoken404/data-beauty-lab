@@ -1,6 +1,6 @@
 ---
 title: "平面仿射变换的可视化：用Python探索几何变换之美"
-date: 2025-01-23
+date: 2025-12-23
 slug: "affine-transformation-visualization-zh"
 categories: ["数据可视化", "线性代数"]
 tags: ["Python", "Matplotlib", "线性变换", "仿射变换", "可视化"]
