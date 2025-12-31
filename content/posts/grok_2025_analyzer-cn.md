@@ -8,7 +8,9 @@ draft: false
 ---
 
 # Grok 年度使用分析报告
-
+> 本文使用的数据分析代码已开源，仓库地址：  
+> [https://github.com/twoken404/grok_and_deepseek_2025_analyze/](https://github.com/twoken404/grok_and_deepseek_2025_analyze/)
+> 
 *报告生成时间: 2025-12-31 21:07:50*
 
 ## 📊 总体概况

@@ -12,7 +12,9 @@ Here’s an English version of the report adapted for a blog post. It retains th
 ---
 
 # My Year with Grok: A Visual Creator’s Annual Report
-
+> The data analysis code used in this article is open source. Repository:  
+> [https://github.com/twoken404/grok_and_deepseek_2025_analyze/](https://github.com/twoken404/grok_and_deepseek_2025_analyze/)
+> 
 *Report generated: December 31, 2025*
 
 ## 📊 Year in Review
