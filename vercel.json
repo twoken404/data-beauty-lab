@@ -7,5 +7,19 @@
   },
   "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
-  "framework": "hugo"
+  "framework": "hugo",
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "139010.xyz"
+        }
+      ],
+      "destination": "https://139010.xyz/:path*",
+      "permanent": true,
+      "statusCode": 301
+    }
+  ]
 }
