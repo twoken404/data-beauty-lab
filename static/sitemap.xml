@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://139010.xyz/</loc>
+  <lastmod>2026-01-14T07:07:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/</loc>
+  <lastmod>2026-01-14T07:07:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/about/</loc>
+  <lastmod>2026-01-14T07:07:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/archives/</loc>
+  <lastmod>2026-01-14T07:07:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/fix-301-redirect-problem-with-cloudflare-and-vercel/</loc>
+  <lastmod>2026-01-14T07:07:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/grok-annual-report-english-analysis/</loc>
+  <lastmod>2026-01-14T07:07:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/grok-annual-report-chinese-analysis/</loc>
+  <lastmod>2026-01-14T07:07:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/book-recommendation-the-beauty-of-visualization-cn/</loc>
+  <lastmod>2026-01-14T07:07:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/book-recommendation-the-beauty-of-visualization-en/</loc>
+  <lastmod>2026-01-14T07:07:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/selection-sort-algorithm-in-python-cn/</loc>
+  <lastmod>2026-01-14T07:07:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/selection-sort-algorithm-in-python-en/</loc>
+  <lastmod>2026-01-14T07:07:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/bubble-sort-algorithm-principles-optimization-cases-zh/</loc>
+  <lastmod>2026-01-14T07:07:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/bubble-sort-algorithm-principles-optimization-cases/</loc>
+  <lastmod>2026-01-14T07:07:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/affine-transformation-visualization-zh/</loc>
+  <lastmod>2026-01-14T07:07:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/affine-transformation-visualization-en/</loc>
+  <lastmod>2026-01-14T07:07:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/art-of-perfect-circle-generation-zh/</loc>
+  <lastmod>2026-01-14T07:08:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/dijkstra-algorithm-zh/</loc>
+  <lastmod>2026-01-14T07:08:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/dijkstra-algorithm-en/</loc>
+  <lastmod>2026-01-14T07:08:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/from-flocking-to-optimization-the-evolution-and-application-of-boids-model-zh/</loc>
+  <lastmod>2026-01-14T07:08:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/from-flocking-to-optimization-the-evolution-and-application-of-boids-model-en/</loc>
+  <lastmod>2026-01-14T07:08:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/data-visualization-fundamentals-zh/</loc>
+  <lastmod>2026-01-14T07:08:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/data-visualization-fundamentals-en/</loc>
+  <lastmod>2026-01-14T07:08:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/shenzhen-housing-price-subway-visualization-zh/</loc>
+  <lastmod>2026-01-14T07:08:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/map-visualization-project-files-analysis-zh/</loc>
+  <lastmod>2026-01-14T07:08:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/shenzhen-housing-price-subway-visualization-en/</loc>
+  <lastmod>2026-01-14T07:08:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/map-visualization-project-files-analysis-en/</loc>
+  <lastmod>2026-01-14T07:08:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/ggplot2-python-visualization-zh/</loc>
+  <lastmod>2026-01-14T07:08:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/ggplot2-python-implementation-en/</loc>
+  <lastmod>2026-01-14T07:08:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/data-beauty-intro-zh/</loc>
+  <lastmod>2026-01-14T07:08:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/data-beauty-intro-en/</loc>
+  <lastmod>2026-01-14T07:08:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://139010.xyz/posts/privacy-policy-en/</loc>
+  <lastmod>2026-01-14T07:08:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
